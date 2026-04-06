@@ -1,4 +1,4 @@
-## Task 1.6 — Skeleton RAG Knowledge Base (Owner: Harshitha)
+## Task 1.6 — Skeleton RAG Knowledge Base
 
 ### Objective
 Build the initial RAG knowledge base and FAISS vector index from the URFD dataset
