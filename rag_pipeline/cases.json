@@ -1,0 +1,1192 @@
+[
+  {
+    "case_id": "fall_fall-01",
+    "sequence_id": "fall-01",
+    "label": "FALL",
+    "description": "Fall sequence fall-01: person falls with gradual descent. Body reaches mid-level position (hip_y=0.5365). Torso angle drops to minimum 0.1033 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1454, torso_vertical_diff_min: 0.1033, hip_y: 0.5365, shoulder_y: 0.391, nose_y: 0.3465",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-01, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-02",
+    "sequence_id": "fall-02",
+    "label": "FALL",
+    "description": "Fall sequence fall-02: person falls with rapid collapse. Body reaches floor-level position (hip_y=0.7207). Torso angle drops to minimum 0.0238 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.144, torso_vertical_diff_min: 0.0238, hip_y: 0.7207, shoulder_y: 0.5846, nose_y: 0.5539",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-02, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-03",
+    "sequence_id": "fall-03",
+    "label": "FALL",
+    "description": "Fall sequence fall-03: person falls with partial fall. Body reaches mid-level position (hip_y=0.5703). Torso angle drops to minimum 0.1613 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.2336, torso_vertical_diff_min: 0.1613, hip_y: 0.5703, shoulder_y: 0.3367, nose_y: 0.2371",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-03, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-04",
+    "sequence_id": "fall-04",
+    "label": "FALL",
+    "description": "Fall sequence fall-04: person falls with gradual descent. Body reaches floor-level position (hip_y=0.7748). Torso angle drops to minimum 0.1056 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1419, torso_vertical_diff_min: 0.1056, hip_y: 0.7748, shoulder_y: 0.6751, nose_y: 0.6599",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-04, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-05",
+    "sequence_id": "fall-05",
+    "label": "FALL",
+    "description": "Fall sequence fall-05: person falls with rapid collapse. Body reaches mid-level position (hip_y=0.5507). Torso angle drops to minimum 0.0262 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1345, torso_vertical_diff_min: 0.0262, hip_y: 0.5507, shoulder_y: 0.4428, nose_y: 0.4082",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-05, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-06",
+    "sequence_id": "fall-06",
+    "label": "FALL",
+    "description": "Fall sequence fall-06: person falls with rapid collapse. Body reaches floor-level position (hip_y=0.6925). Torso angle drops to minimum 0.0021 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1161, torso_vertical_diff_min: 0.0021, hip_y: 0.6925, shoulder_y: 0.5764, nose_y: 0.6055",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-06, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-07",
+    "sequence_id": "fall-07",
+    "label": "FALL",
+    "description": "Fall sequence fall-07: person falls with rapid collapse. Body reaches mid-level position (hip_y=0.5502). Torso angle drops to minimum 0.0674 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.2162, torso_vertical_diff_min: 0.0674, hip_y: 0.5502, shoulder_y: 0.3749, nose_y: 0.3138",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-07, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-08",
+    "sequence_id": "fall-08",
+    "label": "FALL",
+    "description": "Fall sequence fall-08: person falls with rapid collapse. Body reaches floor-level position (hip_y=0.681). Torso angle drops to minimum 0.0025 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1167, torso_vertical_diff_min: 0.0025, hip_y: 0.681, shoulder_y: 0.5653, nose_y: 0.5692",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-08, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-09",
+    "sequence_id": "fall-09",
+    "label": "FALL",
+    "description": "Fall sequence fall-09: person falls with rapid collapse. Body reaches mid-level position (hip_y=0.5475). Torso angle drops to minimum 0.0436 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1997, torso_vertical_diff_min: 0.0436, hip_y: 0.5475, shoulder_y: 0.3671, nose_y: 0.3143",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-09, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-10",
+    "sequence_id": "fall-10",
+    "label": "FALL",
+    "description": "Fall sequence fall-10: person falls with rapid collapse. Body reaches floor-level position (hip_y=0.6824). Torso angle drops to minimum 0.0423 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1429, torso_vertical_diff_min: 0.0423, hip_y: 0.6824, shoulder_y: 0.5886, nose_y: 0.543",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-10, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-11",
+    "sequence_id": "fall-11",
+    "label": "FALL",
+    "description": "Fall sequence fall-11: person falls with rapid collapse. Body reaches mid-level position (hip_y=0.6261). Torso angle drops to minimum 0.0208 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1796, torso_vertical_diff_min: 0.0208, hip_y: 0.6261, shoulder_y: 0.4465, nose_y: 0.4098",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-11, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-12",
+    "sequence_id": "fall-12",
+    "label": "FALL",
+    "description": "Fall sequence fall-12: person falls with rapid collapse. Body reaches floor-level position (hip_y=0.6704). Torso angle drops to minimum 0.0058 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.085, torso_vertical_diff_min: 0.0058, hip_y: 0.6704, shoulder_y: 0.5854, nose_y: 0.5882",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-12, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-13",
+    "sequence_id": "fall-13",
+    "label": "FALL",
+    "description": "Fall sequence fall-13: person falls with rapid collapse. Body reaches mid-level position (hip_y=0.6149). Torso angle drops to minimum 0.0652 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.13, torso_vertical_diff_min: 0.0652, hip_y: 0.6149, shoulder_y: 0.511, nose_y: 0.4855",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-13, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-14",
+    "sequence_id": "fall-14",
+    "label": "FALL",
+    "description": "Fall sequence fall-14: person falls with rapid collapse. Body reaches floor-level position (hip_y=0.7442). Torso angle drops to minimum 0.0105 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.0834, torso_vertical_diff_min: 0.0105, hip_y: 0.7442, shoulder_y: 0.6877, nose_y: 0.6997",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-14, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-15",
+    "sequence_id": "fall-15",
+    "label": "FALL",
+    "description": "Fall sequence fall-15: person falls with rapid collapse. Body reaches mid-level position (hip_y=0.5834). Torso angle drops to minimum 0.0304 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.0975, torso_vertical_diff_min: 0.0304, hip_y: 0.5834, shoulder_y: 0.4859, nose_y: 0.4706",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-15, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-16",
+    "sequence_id": "fall-16",
+    "label": "FALL",
+    "description": "Fall sequence fall-16: person falls with rapid collapse. Body reaches floor-level position (hip_y=0.7102). Torso angle drops to minimum 0.0068 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1069, torso_vertical_diff_min: 0.0068, hip_y: 0.7102, shoulder_y: 0.6033, nose_y: 0.5946",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-16, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-17",
+    "sequence_id": "fall-17",
+    "label": "FALL",
+    "description": "Fall sequence fall-17: person falls with rapid collapse. Body reaches mid-level position (hip_y=0.6125). Torso angle drops to minimum 0.0938 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1224, torso_vertical_diff_min: 0.0938, hip_y: 0.6125, shoulder_y: 0.5276, nose_y: 0.5184",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-17, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-18",
+    "sequence_id": "fall-18",
+    "label": "FALL",
+    "description": "Fall sequence fall-18: person falls with rapid collapse. Body reaches floor-level position (hip_y=0.7404). Torso angle drops to minimum 0.038 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1064, torso_vertical_diff_min: 0.038, hip_y: 0.7404, shoulder_y: 0.6593, nose_y: 0.641",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-18, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-19",
+    "sequence_id": "fall-19",
+    "label": "FALL",
+    "description": "Fall sequence fall-19: person falls with rapid collapse. Body reaches mid-level position (hip_y=0.5941). Torso angle drops to minimum 0.097 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1303, torso_vertical_diff_min: 0.097, hip_y: 0.5941, shoulder_y: 0.4638, nose_y: 0.4423",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-19, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-20",
+    "sequence_id": "fall-20",
+    "label": "FALL",
+    "description": "Fall sequence fall-20: person falls with rapid collapse. Body reaches floor-level position (hip_y=0.7587). Torso angle drops to minimum 0.038 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1278, torso_vertical_diff_min: 0.038, hip_y: 0.7587, shoulder_y: 0.631, nose_y: 0.6237",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-20, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-21",
+    "sequence_id": "fall-21",
+    "label": "FALL",
+    "description": "Fall sequence fall-21: person falls with rapid collapse. Body reaches mid-level position (hip_y=0.604). Torso angle drops to minimum 0.0436 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1126, torso_vertical_diff_min: 0.0436, hip_y: 0.604, shoulder_y: 0.5204, nose_y: 0.5002",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-21, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-22",
+    "sequence_id": "fall-22",
+    "label": "FALL",
+    "description": "Fall sequence fall-22: person falls with rapid collapse. Body reaches floor-level position (hip_y=0.7371). Torso angle drops to minimum 0.0403 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1168, torso_vertical_diff_min: 0.0403, hip_y: 0.7371, shoulder_y: 0.6939, nose_y: 0.7041",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-22, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-23",
+    "sequence_id": "fall-23",
+    "label": "FALL",
+    "description": "Fall sequence fall-23: person falls with rapid collapse. Body reaches mid-level position (hip_y=0.5952). Torso angle drops to minimum 0.0737 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1152, torso_vertical_diff_min: 0.0737, hip_y: 0.5952, shoulder_y: 0.48, nose_y: 0.4593",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-23, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-24",
+    "sequence_id": "fall-24",
+    "label": "FALL",
+    "description": "Fall sequence fall-24: person falls with rapid collapse. Body reaches floor-level position (hip_y=0.6984). Torso angle drops to minimum 0.097 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1451, torso_vertical_diff_min: 0.097, hip_y: 0.6984, shoulder_y: 0.5533, nose_y: 0.5294",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-24, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-25",
+    "sequence_id": "fall-25",
+    "label": "FALL",
+    "description": "Fall sequence fall-25: person falls with rapid collapse. Body reaches mid-level position (hip_y=0.6164). Torso angle drops to minimum 0.0765 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1227, torso_vertical_diff_min: 0.0765, hip_y: 0.6164, shoulder_y: 0.4936, nose_y: 0.4717",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-25, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-26",
+    "sequence_id": "fall-26",
+    "label": "FALL",
+    "description": "Fall sequence fall-26: person falls with rapid collapse. Body reaches floor-level position (hip_y=0.6746). Torso angle drops to minimum 0.0867 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1463, torso_vertical_diff_min: 0.0867, hip_y: 0.6746, shoulder_y: 0.5283, nose_y: 0.5193",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-26, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-27",
+    "sequence_id": "fall-27",
+    "label": "FALL",
+    "description": "Fall sequence fall-27: person falls with gradual descent. Body reaches mid-level position (hip_y=0.5916). Torso angle drops to minimum 0.1077 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1373, torso_vertical_diff_min: 0.1077, hip_y: 0.5916, shoulder_y: 0.4543, nose_y: 0.4233",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-27, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-28",
+    "sequence_id": "fall-28",
+    "label": "FALL",
+    "description": "Fall sequence fall-28: person falls with rapid collapse. Body reaches floor-level position (hip_y=0.6986). Torso angle drops to minimum 0.0641 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1597, torso_vertical_diff_min: 0.0641, hip_y: 0.6986, shoulder_y: 0.5389, nose_y: 0.5218",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-28, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-29",
+    "sequence_id": "fall-29",
+    "label": "FALL",
+    "description": "Fall sequence fall-29: person falls with rapid collapse. Body reaches mid-level position (hip_y=0.6047). Torso angle drops to minimum 0.0831 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1319, torso_vertical_diff_min: 0.0831, hip_y: 0.6047, shoulder_y: 0.4728, nose_y: 0.4413",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-29, cam0-rgb modality."
+  },
+  {
+    "case_id": "fall_fall-30",
+    "sequence_id": "fall-30",
+    "label": "FALL",
+    "description": "Fall sequence fall-30: person falls with rapid collapse. Body reaches floor-level position (hip_y=0.6979). Torso angle drops to minimum 0.0657 indicating horizontal body. Floor contact observed, loss of balance confirmed.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1554, torso_vertical_diff_min: 0.0657, hip_y: 0.6979, shoulder_y: 0.5425, nose_y: 0.5111",
+    "key_features": [
+      "fall_event",
+      "floor_contact",
+      "rapid_descent",
+      "loss_of_balance",
+      "horizontal_body",
+      "low_torso_diff"
+    ],
+    "outcome": "FALL",
+    "notes": "URFD fall-30, cam0-rgb modality."
+  },
+  {
+    "case_id": "adl_adl-01",
+    "sequence_id": "adl-01",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-01: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1653). Critically, torso_vertical_diff never drops below 0.1206 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5418, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1653, torso_vertical_diff_min: 0.1206, hip_y: 0.5418, shoulder_y: 0.3765, nose_y: 0.3654",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-01, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-02",
+    "sequence_id": "adl-02",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-02: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1521). Critically, torso_vertical_diff never drops below 0.0998 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.56, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1521, torso_vertical_diff_min: 0.0998, hip_y: 0.56, shoulder_y: 0.4079, nose_y: 0.3825",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-02, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-03",
+    "sequence_id": "adl-03",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-03: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1761). Critically, torso_vertical_diff never drops below 0.1502 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5637, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1761, torso_vertical_diff_min: 0.1502, hip_y: 0.5637, shoulder_y: 0.3875, nose_y: 0.3619",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-03, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-04",
+    "sequence_id": "adl-04",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-04: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1347). Critically, torso_vertical_diff never drops below 0.0263 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.4746, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1347, torso_vertical_diff_min: 0.0263, hip_y: 0.4746, shoulder_y: 0.3464, nose_y: 0.3514",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-04, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-05",
+    "sequence_id": "adl-05",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-05: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1522). Critically, torso_vertical_diff never drops below 0.034 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.4845, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1522, torso_vertical_diff_min: 0.034, hip_y: 0.4845, shoulder_y: 0.3323, nose_y: 0.3082",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-05, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-06",
+    "sequence_id": "adl-06",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-06: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.173). Critically, torso_vertical_diff never drops below 0.0235 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.4836, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.173, torso_vertical_diff_min: 0.0235, hip_y: 0.4836, shoulder_y: 0.3106, nose_y: 0.2954",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-06, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-07",
+    "sequence_id": "adl-07",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-07: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1605). Critically, torso_vertical_diff never drops below 0.1179 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5304, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1605, torso_vertical_diff_min: 0.1179, hip_y: 0.5304, shoulder_y: 0.3699, nose_y: 0.3284",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-07, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-08",
+    "sequence_id": "adl-08",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-08: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.164). Critically, torso_vertical_diff never drops below 0.1288 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5311, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.164, torso_vertical_diff_min: 0.1288, hip_y: 0.5311, shoulder_y: 0.3671, nose_y: 0.3158",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-08, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-09",
+    "sequence_id": "adl-09",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-09: normal daily activity, NO fall event. Person maintains fully upright stable posture (torso_diff_avg=0.1983). Critically, torso_vertical_diff never drops below 0.1474 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5153, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1983, torso_vertical_diff_min: 0.1474, hip_y: 0.5153, shoulder_y: 0.3171, nose_y: 0.2654",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-09, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-10",
+    "sequence_id": "adl-10",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-10: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1726). Critically, torso_vertical_diff never drops below 0.0748 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5808, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1726, torso_vertical_diff_min: 0.0748, hip_y: 0.5808, shoulder_y: 0.4082, nose_y: 0.3803",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-10, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-11",
+    "sequence_id": "adl-11",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-11: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1746). Critically, torso_vertical_diff never drops below 0.0879 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5729, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1746, torso_vertical_diff_min: 0.0879, hip_y: 0.5729, shoulder_y: 0.3982, nose_y: 0.3791",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-11, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-12",
+    "sequence_id": "adl-12",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-12: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1749). Critically, torso_vertical_diff never drops below 0.1151 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.518, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1749, torso_vertical_diff_min: 0.1151, hip_y: 0.518, shoulder_y: 0.3431, nose_y: 0.2758",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-12, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-13",
+    "sequence_id": "adl-13",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-13: normal daily activity, NO fall event. Person maintains fully upright stable posture (torso_diff_avg=0.2247). Critically, torso_vertical_diff never drops below 0.1854 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.4975, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.2247, torso_vertical_diff_min: 0.1854, hip_y: 0.4975, shoulder_y: 0.2728, nose_y: 0.2125",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-13, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-14",
+    "sequence_id": "adl-14",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-14: normal daily activity, NO fall event. Person maintains fully upright stable posture (torso_diff_avg=0.2037). Critically, torso_vertical_diff never drops below 0.1628 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5216, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.2037, torso_vertical_diff_min: 0.1628, hip_y: 0.5216, shoulder_y: 0.3179, nose_y: 0.2444",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-14, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-15",
+    "sequence_id": "adl-15",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-15: normal daily activity, NO fall event. Person maintains fully upright stable posture (torso_diff_avg=0.1803). Critically, torso_vertical_diff never drops below 0.0977 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5107, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1803, torso_vertical_diff_min: 0.0977, hip_y: 0.5107, shoulder_y: 0.3303, nose_y: 0.3011",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-15, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-16",
+    "sequence_id": "adl-16",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-16: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.146). Critically, torso_vertical_diff never drops below 0.0599 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5079, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.146, torso_vertical_diff_min: 0.0599, hip_y: 0.5079, shoulder_y: 0.362, nose_y: 0.3412",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-16, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-17",
+    "sequence_id": "adl-17",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-17: normal daily activity, NO fall event. Person maintains fully upright stable posture (torso_diff_avg=0.1912). Critically, torso_vertical_diff never drops below 0.0926 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.4905, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1912, torso_vertical_diff_min: 0.0926, hip_y: 0.4905, shoulder_y: 0.2993, nose_y: 0.2726",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-17, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-18",
+    "sequence_id": "adl-18",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-18: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1666). Critically, torso_vertical_diff never drops below 0.0984 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5235, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1666, torso_vertical_diff_min: 0.0984, hip_y: 0.5235, shoulder_y: 0.3569, nose_y: 0.2965",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-18, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-19",
+    "sequence_id": "adl-19",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-19: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1548). Critically, torso_vertical_diff never drops below 0.0521 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5169, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1548, torso_vertical_diff_min: 0.0521, hip_y: 0.5169, shoulder_y: 0.362, nose_y: 0.3083",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-19, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-20",
+    "sequence_id": "adl-20",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-20: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1765). Critically, torso_vertical_diff never drops below 0.1541 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5224, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1765, torso_vertical_diff_min: 0.1541, hip_y: 0.5224, shoulder_y: 0.346, nose_y: 0.2831",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-20, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-21",
+    "sequence_id": "adl-21",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-21: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1539). Critically, torso_vertical_diff never drops below 0.1136 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5512, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1539, torso_vertical_diff_min: 0.1136, hip_y: 0.5512, shoulder_y: 0.3974, nose_y: 0.3421",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-21, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-22",
+    "sequence_id": "adl-22",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-22: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1792). Critically, torso_vertical_diff never drops below 0.1679 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5201, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1792, torso_vertical_diff_min: 0.1679, hip_y: 0.5201, shoulder_y: 0.3409, nose_y: 0.2703",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-22, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-23",
+    "sequence_id": "adl-23",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-23: normal daily activity, NO fall event. Person maintains fully upright stable posture (torso_diff_avg=0.1828). Critically, torso_vertical_diff never drops below 0.1698 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.513, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1828, torso_vertical_diff_min: 0.1698, hip_y: 0.513, shoulder_y: 0.3302, nose_y: 0.2524",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-23, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-24",
+    "sequence_id": "adl-24",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-24: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1301). Critically, torso_vertical_diff never drops below 0.0843 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.6022, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1301, torso_vertical_diff_min: 0.0843, hip_y: 0.6022, shoulder_y: 0.4721, nose_y: 0.4379",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-24, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-25",
+    "sequence_id": "adl-25",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-25: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1367). Critically, torso_vertical_diff never drops below 0.1073 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5648, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1367, torso_vertical_diff_min: 0.1073, hip_y: 0.5648, shoulder_y: 0.4282, nose_y: 0.389",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-25, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-26",
+    "sequence_id": "adl-26",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-26: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1588). Critically, torso_vertical_diff never drops below 0.0975 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5883, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1588, torso_vertical_diff_min: 0.0975, hip_y: 0.5883, shoulder_y: 0.4296, nose_y: 0.3803",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-26, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-27",
+    "sequence_id": "adl-27",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-27: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1433). Critically, torso_vertical_diff never drops below 0.0764 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5447, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1433, torso_vertical_diff_min: 0.0764, hip_y: 0.5447, shoulder_y: 0.4014, nose_y: 0.3688",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-27, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-28",
+    "sequence_id": "adl-28",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-28: normal daily activity, NO fall event. Person maintains controlled crouch or bend posture (torso_diff_avg=0.1003). Critically, torso_vertical_diff never drops below 0.0367 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5783, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1003, torso_vertical_diff_min: 0.0367, hip_y: 0.5783, shoulder_y: 0.478, nose_y: 0.458",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-28, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-29",
+    "sequence_id": "adl-29",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-29: normal daily activity, NO fall event. Person maintains controlled crouch or bend posture (torso_diff_avg=0.1079). Critically, torso_vertical_diff never drops below 0.0475 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.572, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1079, torso_vertical_diff_min: 0.0475, hip_y: 0.572, shoulder_y: 0.464, nose_y: 0.4418",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-29, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-30",
+    "sequence_id": "adl-30",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-30: normal daily activity, NO fall event. Person maintains controlled crouch or bend posture (torso_diff_avg=0.1182). Critically, torso_vertical_diff never drops below 0.0321 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.6236, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1182, torso_vertical_diff_min: 0.0321, hip_y: 0.6236, shoulder_y: 0.5681, nose_y: 0.5623",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-30, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-31",
+    "sequence_id": "adl-31",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-31: normal daily activity, NO fall event. Person maintains controlled crouch or bend posture (torso_diff_avg=0.0859). Critically, torso_vertical_diff never drops below 0.0102 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.7519, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.0859, torso_vertical_diff_min: 0.0102, hip_y: 0.7519, shoulder_y: 0.7111, nose_y: 0.7293",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-31, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-32",
+    "sequence_id": "adl-32",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-32: normal daily activity, NO fall event. Person maintains controlled crouch or bend posture (torso_diff_avg=0.091). Critically, torso_vertical_diff never drops below 0.0061 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.717, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.091, torso_vertical_diff_min: 0.0061, hip_y: 0.717, shoulder_y: 0.6325, nose_y: 0.6212",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-32, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-33",
+    "sequence_id": "adl-33",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-33: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1208). Critically, torso_vertical_diff never drops below 0.0039 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.7041, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1208, torso_vertical_diff_min: 0.0039, hip_y: 0.7041, shoulder_y: 0.5834, nose_y: 0.5767",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-33, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-34",
+    "sequence_id": "adl-34",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-34: normal daily activity, NO fall event. Person maintains controlled crouch or bend posture (torso_diff_avg=0.0731). Critically, torso_vertical_diff never drops below 0.0177 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.7455, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.0731, torso_vertical_diff_min: 0.0177, hip_y: 0.7455, shoulder_y: 0.7571, nose_y: 0.7807",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-34, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-35",
+    "sequence_id": "adl-35",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-35: normal daily activity, NO fall event. Person maintains controlled crouch or bend posture (torso_diff_avg=0.0785). Critically, torso_vertical_diff never drops below 0.0303 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.7646, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.0785, torso_vertical_diff_min: 0.0303, hip_y: 0.7646, shoulder_y: 0.7458, nose_y: 0.7663",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-35, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-36",
+    "sequence_id": "adl-36",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-36: normal daily activity, NO fall event. Person maintains fully upright stable posture (torso_diff_avg=0.1857). Critically, torso_vertical_diff never drops below 0.0627 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.6135, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1857, torso_vertical_diff_min: 0.0627, hip_y: 0.6135, shoulder_y: 0.4278, nose_y: 0.3969",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-36, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-37",
+    "sequence_id": "adl-37",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-37: normal daily activity, NO fall event. Person maintains fully upright stable posture (torso_diff_avg=0.1972). Critically, torso_vertical_diff never drops below 0.0853 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.6479, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1972, torso_vertical_diff_min: 0.0853, hip_y: 0.6479, shoulder_y: 0.4507, nose_y: 0.414",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-37, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-38",
+    "sequence_id": "adl-38",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-38: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.135). Critically, torso_vertical_diff never drops below 0.061 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5768, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.135, torso_vertical_diff_min: 0.061, hip_y: 0.5768, shoulder_y: 0.5362, nose_y: 0.5481",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-38, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-39",
+    "sequence_id": "adl-39",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-39: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1404). Critically, torso_vertical_diff never drops below 0.0631 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5402, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1404, torso_vertical_diff_min: 0.0631, hip_y: 0.5402, shoulder_y: 0.4701, nose_y: 0.4744",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-39, activity of daily living."
+  },
+  {
+    "case_id": "adl_adl-40",
+    "sequence_id": "adl-40",
+    "label": "NO_FALL",
+    "description": "ADL sequence adl-40: normal daily activity, NO fall event. Person maintains slight lean but controlled posture (torso_diff_avg=0.1304). Critically, torso_vertical_diff never drops below 0.0579 \u2014 body never becomes horizontal, no floor contact. Hip stays at 0.5903, controlled balance maintained throughout. This is NOT a fall \u2014 person remains in control.",
+    "pose_summary": "torso_vertical_diff_avg: 0.1304, torso_vertical_diff_min: 0.0579, hip_y: 0.5903, shoulder_y: 0.5139, nose_y: 0.5061",
+    "key_features": [
+      "adl_activity",
+      "controlled_motion",
+      "upright_posture",
+      "no_floor_contact",
+      "stable_balance",
+      "high_torso_diff"
+    ],
+    "outcome": "NO_FALL",
+    "notes": "URFD adl-40, activity of daily living."
+  }
+]
